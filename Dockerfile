@@ -5,7 +5,6 @@ WORKDIR /app
 
 RUN pip install --upgrade pip
 RUN pip install gunicorn
-RUN pip freeze > requirements.txt
 RUN pip install -r requirements.txt
 
 
