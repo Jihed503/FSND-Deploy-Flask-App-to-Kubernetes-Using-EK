@@ -13,7 +13,7 @@ cryptohash==1.0.5
 docutils==0.15.2
 ecdsa==0.15
 Flask==1.1.2
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 Flask-JWT==0.3.2
 Flask-SQLAlchemy==2.4.3
 gunicorn==20.0.4
